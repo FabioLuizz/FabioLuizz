@@ -12,7 +12,7 @@
 </h3>
 
 <h6 align="center">
-Sem formação acadêmica de nível superior no momento, mas em constantemente aprendizado, buscando sempre novas tecnologias e consolidando os conhecimento já adquiridos.<br>
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP e cursando o programa Explorer da RocketSeat com finalidade em desenvolvimento Fullstack. Atualmente com conhecimentos sólidos em HTML, CSS e Javascript mas constantemente estudando novas tecnologias e consolidando os conhecimentos já adquiridos. <br>
  Pró ativo com capacidade de trabalhar em grupo. Em busca da minha primeira oportunidade para trabalhar com desenvolvimento.
 </h6>
 
